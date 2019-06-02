@@ -1,0 +1,1 @@
+Artículo 1º.- El Honorable Concejo Deliberante del Partido de General Puyrredon otorga el título al “Mérito Deportivo” al señor Sandro “Chino” Moral, por su destacada trayectoria en el ámbito del deporte.
