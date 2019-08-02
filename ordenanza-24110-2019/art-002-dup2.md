@@ -1,0 +1,1 @@
+Artículo 2º.- Autorízase a EVENT LIVE S.A. el uso de la vía pública y el corte de tránsito parcial, desde el día 28 de noviembre hasta el 1 de diciembre para el armado y demarcación del circuito y el 3 de diciembre 2018 para el desarme en espacios y horarios a definir dentro del circuito detallado en el Artículo 1º.
