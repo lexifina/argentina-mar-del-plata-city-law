@@ -1,0 +1,1 @@
+ARTÍCULO 3º: LA AGRUPACIÓN se obliga a abonar al artista el PRIMER PREMIO que es fijado en la suma de PESOS CUARENTA MIL ($40.000.-). Así como los gastos de basamento, instalación, seguros y todo otro gasto que demande el emplazamiento del monumento.

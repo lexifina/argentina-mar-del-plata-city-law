@@ -1,0 +1,1 @@
+ARTÍCULO 4º: La MUNICIPALIDAD prestará asistencia técnica y apoyo logístico a los fines del desarrollo y emplazamiento de la obra que resulte ganadora del Concurso para el Diseño de un Monumento Conmemorativo a los Tripulantes del ARA San Juan.

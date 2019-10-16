@@ -1,0 +1,1 @@
+ARTÍCULO 1º: El presente Convenio tiene por objeto la realización del Concurso Público Nacional “Monumento Conmemorativo a los Tripulantes A.R.A San Juan”, sentando las bases y condiciones bajo las cuales las Partes actuarán en colaboración para llevar adelante el mencionado concurso.
