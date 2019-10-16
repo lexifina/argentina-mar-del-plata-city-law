@@ -1,0 +1,1 @@
+Artículo 1º.- Declárase “Visitante Notable” del Partido de General Pueyrredon al Embajador de Cuba en Argentina, Don Orestes Pérez Pérez; por su constante labor y trayectoria en la carrera diplomática y su compromiso con el objetivo de afianzar y desarrollar los vínculos entre ambos países.
