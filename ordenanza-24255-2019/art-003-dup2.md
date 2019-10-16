@@ -1,0 +1,1 @@
+Artículo 3º.- Será facultad del organismo municipal correspondiente todo lo concerniente a: condiciones de admisión del alumno, especialidades, planes y programas de estudio de los cursos que se dicten, organización, planta funcional e inspección correspondiente al funcionamiento de la escuela.

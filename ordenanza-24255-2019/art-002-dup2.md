@@ -1,0 +1,1 @@
+Artículo 2º.- A los cursos que se dicten en la Escuela Municipal de Formación Profesional nº 10 podrán concurrir en calidad de alumnos todas las personas que cubran las exigencias de admisión establecidas en la normativa municipal y provincial correspondiente, sin distinción de raza o religión, observando una conducta respetuosa al carácter cristiano de la casa.
