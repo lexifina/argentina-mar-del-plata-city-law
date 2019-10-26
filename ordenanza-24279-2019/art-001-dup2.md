@@ -1,0 +1,1 @@
+Artículo 1º.- El Honorable Concejo Deliberante del Partido de General Pueyrredon declara “Visitante Notable” de Mar del Plata al historiador, periodista y gestor cultural Sr. Martín Miguel Güemes Arruabarrena, en ocasión de su presencia en la ciudad el día 5 de agosto de 2019.
