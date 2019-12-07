@@ -1,0 +1,1 @@
+Artículo 1º.- El Honorable Concejo Deliberante del Partido de General Pueyrredon declara “Visitante Notable” de Mar del Plata al Dr. Alberto Núñez Feijoó, Presidente de la Xunta de Galicia, destacado representante político, quien visitará nuestra ciudad por el evento "Mar del Plata, Capital Cultural de la Galicia Exterior 2019”.
