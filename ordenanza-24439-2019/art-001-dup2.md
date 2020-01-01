@@ -1,0 +1,1 @@
+Articulo 1º.- Otórgase la distinción al “Compromiso Social” a la médica Mabel Bianco, Presidenta de la Fundación para Estudio e Investigación de la Mujer (FEIM), destacada por su solidaridad y compromiso en la mejora de la calidad de vida de las personas y en el logro de una sociedad más justa e igualitaria.

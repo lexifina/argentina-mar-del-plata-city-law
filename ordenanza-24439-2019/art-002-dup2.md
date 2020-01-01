@@ -1,0 +1,1 @@
+Artículo 2º.- Entréguese copia del presente a la señora Mabel Bianco en el acto de reconocimiento que se llevará a cabo el próximo 31 de octubre, en la ciudad de Buenos Aires, con motivo de ser elegida una de las cien mujeres más influyentes del mundo.
