@@ -1,0 +1,1 @@
+Artículo 1º.- Autorízase a la ONG Trimarchi a ocupar un sector de la Plazoleta de la Armada Argentina mediante la instalación de carros gastronómicos - denominados “food trucks” durante los días 1, 2 y 3 de noviembre de 2019 - en la franja horaria establecida desde las 12:00 y hasta las 21:00, en el marco del desarrollo del festival de diseño TRImarchi DG 2019.
