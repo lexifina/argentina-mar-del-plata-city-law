@@ -1,0 +1,1 @@
+Artículo 2º.- La permisionaria no podrá emplazar estructuras permanentes, retirando diariamente aquellos elementos que utilice para la realización de los espectáculos, una vez finalizada la actividad. Deberá mantener la limpieza diaria del sector y concluida la acción autorizada deberá restituir el espacio público cedido en las mismas condiciones en que lo recibiera.
