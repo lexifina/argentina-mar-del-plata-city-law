@@ -1,0 +1,1 @@
+Artículo 1º.- Autorízase a la Asociación Civil Amigos Bomberos Mar del Plata a realizar una campaña desde el día 10 de enero y hasta el 10 de marzo de 2020, mediante el ofrecimiento de bonos contribución y artículos de merchandising como calcos, guías, botiquines o casquitos.
