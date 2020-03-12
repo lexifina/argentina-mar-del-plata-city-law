@@ -1,0 +1,1 @@
+Artículo 1º.- Autorízase a los Bomberos Voluntarios de Sierra de Los Padres a realizar una campaña de promoción desde el día 17 de enero y hasta Semana Santa de 2020, mediante el ofrecimiento de bonos contribución y artículos promocionales como calcos o casquitos.
