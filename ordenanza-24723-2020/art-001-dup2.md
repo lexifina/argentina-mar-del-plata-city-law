@@ -1,0 +1,1 @@
+Artículo 1º.- Autorizase al Sr. Fortunato Novello, DNI. 93.775.334, titular de la licencia Municipal nº 1 de Transporte de Personas Enfermas o Accidentadas (Ambulancia) a continuar prestando servicio, por vía de excepción, con el vehiculo marca: PEUGEOT, modelo: BOXER, año: 2009, dominio: HLR767.
