@@ -1,0 +1,1 @@
+Artículo 2º.- Entréguese copia del presente a las profesoras Lucía Magdalena “Ketty” Etcheverry, Ana María Tassi y Luisa Lanza en un acto a realizarse al efecto en el Recinto de Sesiones “C.P.N. Carlos Mauricio Irigoin” del Honorable Concejo Deliberante.

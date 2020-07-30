@@ -1,0 +1,1 @@
+Artículo 1º.- Otórgase el reconocimiento “Mérito Académico” a las profesoras Lucía Magdalena “Ketty” Etcheverry, Ana María Tassi y Luisa Lanza, por su aporte a la educación y el compromiso con la comunidad del Partido de General Pueyrredon.
