@@ -1,0 +1,1 @@
+Artículo 2º.- El valor inicial, correspondiente al mes de abril de 2020, será el resultante de aplicar al importe vigente de la actualización de diciembre de 2019 ($ 427.872,00) el coeficiente que surja de dividir el Índice de Precios al Consumidor Nivel General Total Nacional correspondiente al mes de abril de 2020 y el índice de diciembre de 2019.
