@@ -1,0 +1,1 @@
+Artículo 1º.- Otórgase el título “Mérito Académico” a la científica marplatense Bárbara Tomadoni, en reconocimiento a su labor científica y excelencia en su trabajo y declárase de interés su proyecto seleccionado en la categoría “Pioneros” del premio que organiza la revista del Instituto Tecnológico de Massachusetts.

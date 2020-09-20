@@ -1,0 +1,1 @@
+Artículo 2º.- Entréguese copia del presente a la señora Bárbara Tomadoni en un acto a llevarse a cabo al efecto en el Recinto de Sesiones “CPN Carlos Mauricio Irigoin” del Honorable Concejo Deliberante.
