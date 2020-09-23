@@ -1,0 +1,1 @@
+Artículo 3º.- La prórroga aquí regulada, de ningún modo exime al licenciatario de atender el resto de los requisitos legales que se deben observar, a los fines de cumplir con los servicios brindados en condiciones de seguridad, siendo la Dirección General de Transporte la autoridad de contralor del cumplimiento de las disposiciones normativas específicas.
