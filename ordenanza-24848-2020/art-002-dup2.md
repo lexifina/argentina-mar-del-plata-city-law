@@ -1,0 +1,1 @@
+Artículo 2º.- Autorízase a la Asociación Civil “Travesía por Mogotes” a realizar un acto de pre-largada en la plazoleta ubicada en la Avenida de los Trabajadores, con proyección entre las calles Rodolfo Walsh y Diagonal Estados Unidos Norte a partir de las 8:30hs.

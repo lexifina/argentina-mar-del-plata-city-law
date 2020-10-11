@@ -1,0 +1,1 @@
+Artículo 1º.- Autorízase a la Asociación Civil “Travesía por Mogotes” al corte parcial del tránsito vehicular desde la Avda. de los Trabajadores al 4150 hasta el playón del Centro de Educación Física nº1 para la realización de la “30ª Edición de la Maratón Faro – Centro”, el día 29 de marzo de 2020, desde las 9:00 a las 11.30 horas.
