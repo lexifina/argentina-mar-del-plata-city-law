@@ -1,0 +1,1 @@
+Artículo 2°.- Los permisionarios quedan exentos del pago de todo gravamen municipal que devengue de la acción autorizada en el artículo 1° conforme lo establecido en la Ordenanzas Fiscal e Impositiva.
