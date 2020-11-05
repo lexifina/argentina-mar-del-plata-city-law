@@ -1,0 +1,2 @@
+ARTÍCULO 2º.- PERÍODO DE EXPLOTACION
+El período de explotación se extenderá desde la notificación de la presente hasta el 30 de abril de 2021. Vencido dicho plazo o extinguido el contrato por cualquiera de las causas estipuladas, el permisionario deberá devolver el bien en el estado en que se encontraba, sin ocupantes, quedando las obras realizadas e instalaciones inmuebles por accesión de propiedad exclusiva del Estado.

@@ -1,0 +1,3 @@
+ARTÍCULO 1º.- CONTENIDO DEL PERMISO DE USO Y EXPLOTACION
+El presente permiso tiene por objeto otorgar el uso y explotación de la Unidad Turística Fiscal denominada CAMPING MUNICIPAL para la prestación del servicio de CAMPAMENTISMO (rubro principal) y actividades complementarias (culturales, deportivas y recreativas). Todo ello en el marco de lo dispuesto por la Ley Provincial 13531 y normas complementarias.
+En caso de pretender la permisionaria desarrollar una tarea que no estuviera contemplada en el párrafo anterior, deberá previo a su realización, contar con la debida autorización por escrito del Ente Municipal de Turismo.
