@@ -1,0 +1,1 @@
+Artículo 1º.- Otórgase el título “Visitante Notable” de Mar del Plata al médico pediatra Norberto Liwski, en ocasión de su presencia en la ciudad para asistir a las actividades conmemorativas a realizarse en el marco del 30º aniversario de la sanción de la Convención de los Derechos del Niño, que se llevarán a cabo el día 3 de diciembre de 2019 en el Espacio Unzué.
