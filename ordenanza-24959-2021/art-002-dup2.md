@@ -1,0 +1,42 @@
+Artículo 2º.- Las proporciones del básico según las categorías de los inmuebles son:
+Categoría de Valuación Fiscal
+Proporción Básico según categoría de Valuación Fiscal
+Edificado
+Cochera/Unidad
+Baldio
+1
+30,00
+15,00
+100,00
+2
+30,00
+15,00
+100,00
+3
+40,00
+20,00
+100,00
+4
+40,00
+20,00
+100,00
+5
+50,00
+25,00
+100,00
+6
+60,00
+30,00
+100,00
+7
+80,00
+40,00
+100,00
+8
+90,00
+45,00
+100,00
+9
+100,00
+50,00
+100,00
