@@ -1,0 +1,1 @@
+Artículo 2º.- Las personas que lleven a cabo la campaña autorizada por el artículo anterior deberán contar con una acreditación fehaciente y autorización de la Asociación Civil Amigos Bomberos Mar del Plata, la que estará a disposición de los contribuyentes y organismos de control.
