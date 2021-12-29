@@ -1,0 +1,1 @@
+Artículo 1º.- Establécese la calle Dardo Rocha entre Florisbelo Acosta y Concepción Arenal como uno de los espacios para la realización de las actividades encomendadas en el artículo 2º de la Ordenanza nº 24.864.
