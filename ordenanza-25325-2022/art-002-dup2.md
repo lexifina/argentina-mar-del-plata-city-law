@@ -1,0 +1,1 @@
+Artículo 2º.- Déjase expresamente establecido que el convenio mencionado en el artículo anterior tendrá alcance exclusivo para el personal que cuente con la Obra Social Federal Nacional de Trabajadores de Obras Sanitarias, por ser la obra social de la actividad.
