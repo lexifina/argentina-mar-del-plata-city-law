@@ -1,0 +1,3 @@
+Artículo 1º.- Autorízase a la AGENCIA DE RECAUDACIÓN DE LA PROVINCIA DE BUENOS AIRES (ARBA) a utilizar varios espacios de dominio público con la finalidad de brindar información y atención a los ciudadanos en el marco del “Operativo de Verano ARBA 2022”, por el período comprendido entre el 10 de diciembre de 2021 y el 14 de febrero de 2022, con las ubicaciones y elementos que a continuación se detallan:
+a) Plaza Colón – sobre calle Moreno, vereda de los números pares y su intersección con la Avda. Patricio Peralta Ramos, un (1) puesto/stand de 3,5 mts. de largo por 2,5 mts. de ancho.
+b) Plaza del Agua – sobre calle San Lorenzo, vereda de los números pares, entre las calles Güemes y Carlos Alvear, un (1) puesto/stand de 3,5mts. de largo por 2,5 mts. de ancho.
