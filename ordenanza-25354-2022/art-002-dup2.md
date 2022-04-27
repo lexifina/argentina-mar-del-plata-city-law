@@ -1,0 +1,1 @@
+Artículo 2º.- Para el desarrollo de las actividades, autorízase el emplazamiento de un móvil perteneciente al Ministerio de Salud de la Pcia. de Buenos Aires, una carpa- stand que consta de un gazebo de 3 mt x 3 mt, tres (3) mesas con cuatro (4) sillas cada una y una sombrilla.
