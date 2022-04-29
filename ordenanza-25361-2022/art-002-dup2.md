@@ -1,0 +1,1 @@
+Artículo 2º.- Para el desarrollo del evento, autorízase el emplazamiento de un (1) escenario de 8,80 mts de largo x 4,40 mts de ancho x 1,40 mts de alto, cinco (5) islas de 4 mts x 4 mts y un (1) planetario de 6 mts de diámetro.

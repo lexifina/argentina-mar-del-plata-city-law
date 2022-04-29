@@ -1,0 +1,1 @@
+Artículo 1°.- Autorízase al Ministerio de Desarrollo Social de la Nación a la utilización de un espacio de dominio público en un sector de la Plaza Mitre, por la proyección de la calle Mitre entre Av. Colón y calle Brown, para la realización del evento denominado “Mejor Verano” los días 7, 8 y 9 de enero y 11, 12 y 13 de febrero de 2022.
