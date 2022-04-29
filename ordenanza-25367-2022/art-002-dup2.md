@@ -1,0 +1,1 @@
+Artículo 2º.- Para el caso de que se realicen acciones publicitarias, el permisionario deberá ingresar por Ventanilla Única del Departamento Publicidad de la Dirección General de Inspección General la actividad promocional a realizarse detallando cantidad de promotores, vehículos y material a entregar.

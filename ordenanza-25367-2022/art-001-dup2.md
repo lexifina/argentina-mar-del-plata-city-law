@@ -1,0 +1,3 @@
+Artículo 1º.- Autorízase al Banco de la Provincia de Buenos Aires a la utilización de varios espacios públicos, en el marco de la campaña de verano “ABCD, el tema del verano es cuidarse” y con el fin de promocionar la billetera digital CUENTA D.N.I., por el período comprendido entre los días 28 de diciembre de 2021 y 1 de marzo de 2022, con los móviles y estructuras de acuerdo al siguiente detalle:
+Un (1) módulo con dos (2) cajeros en Avda. Argentina y Adolfo de Sierra de los Padres.
+Un (1) trailer institucional de 7 m x 2.8 m para acción promocional en la Avda. Patricio Peralta Ramos y su intersección con la calle Arenales.
