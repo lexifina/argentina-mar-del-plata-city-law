@@ -1,0 +1,1 @@
+Artículo 2º.- Para el desarrollo de la campaña, autorízase la ocupación de un espacio de novecientos (900) mts2 totales para el emplazamiento de un (1) escenario equipado con luces en altura, pantallas Led, dos (2) aulas rodantes una de INET y otra de Conectar Igualdad, un (1) gazebo y un sector de lectura con sus elementos.
