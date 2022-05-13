@@ -1,0 +1,1 @@
+Artículo 1º.- Autorízase al corte del tránsito vehicular y el uso del espacio público de la calle Córdoba, entre 9 de Julio y 3 de Febrero, el día 10 de febrero de 2021, a partir de las 16 horas, a la Revista Central con el fin de llevar a cabo la celebración del 147º Aniversario de la ciudad de Mar del Plata.
