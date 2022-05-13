@@ -1,0 +1,2 @@
+Artículo 4º.- Comuníquese, etc.-
+Poleggio Martínez Bordaisco

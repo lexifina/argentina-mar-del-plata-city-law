@@ -1,0 +1,1 @@
+Artículo 2º.- Asimismo, autorízase a la señora productora general Cecilia Diez, a utilizar el sector de la recova del edificio donde se encuentra el teatro Auditórium para la instalación de 6 lonas vinílicas impresas montadas sobre una estructura metálica, conformando un dispositivo de ingreso con 140 m2 de alfombra de alto tránsito colocada sobre el solado rígido de acceso.
