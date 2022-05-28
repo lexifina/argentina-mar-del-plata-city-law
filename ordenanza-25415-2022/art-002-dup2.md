@@ -1,0 +1,1 @@
+Artículo 2º.- La permisionaria abonará la totalidad de los gravámenes municipales en concepto de publicidad y ocupación de espacios públicos que devengan de la acción autorizada en el artículo 1º, contenidas en las Ordenanzas Fiscal e Impositiva vigente.
