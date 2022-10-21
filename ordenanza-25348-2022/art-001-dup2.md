@@ -1,0 +1,1 @@
+Artículo 1º.- Autorízase al Sr. CIARLOTTI COLLIVADINO, LISANDRO a efectuar el corte total de tránsito vehicular el día 21 de noviembre de 2021 en el horario de 08 a 20 horas, sobre las calles La Rioja y Avellaneda, por el festejo de los 10 años de la cantina “Lo de Tata” local gastronómico emblema de la ciudad.
