@@ -1,0 +1,11 @@
+{
+  "path": "ar-b-mar-del-plata",
+  "code": "AR-B-MAR-DEL-PLATA",
+  "name": "Mar del Plata",
+  "level": "municipality",
+  "parent": "ar-b",
+  "repo": "https://github.com/lexifina/argentina-mar-del-plata-city-law",
+  "build": "built: municipal ordinances (162 ordinances, 162 versions) from https://sibom.slyt.gba.gob.ar/cities/55",
+  "language": "es",
+  "sources": 1
+}
