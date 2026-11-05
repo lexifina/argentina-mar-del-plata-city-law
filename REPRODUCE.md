@@ -7,6 +7,7 @@ This file is written by the build on 2026-11-05, the day the source data was ret
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
 | Sistema de Boletines Oficiales Municipales (SIBOM), Subsecretaría Legal y Técnica, Secretaría General, Provincia de Buenos Aires: Boletín Oficial Municipal de General Pueyrredon | <https://sibom.slyt.gba.gob.ar/cities/55> | 2026-10-31 | Official municipal ordinances, published in the Boletín Oficial Municipal. Argentina's copyright law (Ley 11.723) has no express exclusion for them; ordinances are public acts of government, binding on everyone once officially published. The source states no restriction on reuse. Reproduced with attribution, following the official text. |
+| Boletín Oficial Municipal de General Pueyrredon (SIBOM) | <https://sibom.slyt.gba.gob.ar/cities/55> | 2026-11-05 | Official public acts of government; source states no reuse restriction; attributed as in the existing repository LICENSE. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -176,20 +177,33 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-24221-2019` | Ordenanza 24221/2019: Convalídase el Convenio Marco de Adhesión suscripto entre el Departamento Ejecutivo y la Secretaría de Infraestructura Urbana dependiente del Ministerio del Interior, Obras Públicas y Vivienda de la Nación, registrado ba | 1 | 2019-09-27 to 2019-09-27 |
 | `ordenanza-24207-2019` | Ordenanza 24207/2019: Autorízase a la Asociación Empleados de Casino Pro Ayuda a la Niñez Desamparada (APAND), con sede social en la Ruta Nacional nº 2 y Beruti de la ciudad de Mar del Plata, a la organización, promoción, circulación y venta  | 1 | 2019-08-29 to 2019-08-29 |
 | `ordenanza-24203-2019` | Ordenanza 24203/2019: Autorízase, con carácter precario y por un período de prueba de dieciocho (18) meses, al señor Rubén Alejandro Battistessa a anexar con ampliación de superficie el uso “Salón de Fiestas y Buffet” a los habilitados Salón  | 1 | 2019-08-29 to 2019-08-29 |
+| `ordenanza-24211-2019` | Ordenanza 24211/2019: Convalídase el Decreto nº 136/19 dictado por la Presidencia del Honorable Concejo Deliberante por medio del cual se autorizó a la firma Coarco S.A. el corte del tránsito vehicular y reducción de calzada de la Avda. Ediso | 1 | 2019-09-18 to 2019-09-18 |
+| `ordenanza-24224-2019` | Ordenanza 24224/2019: Reconócese de legítimo abono y autorízase el pago de la suma de PESOS TREINTA Y CUATRO MIL CIENTO SETENTA Y CUATRO CON 70/100 ($ 34.174,70) a favor de los agentes y por los importes que se detallan en el Anexo I de la pr | 1 | 2019-10-16 to 2019-10-16 |
+| `ordenanza-24225-2019` | Ordenanza 24225/2019: Reconócese de legítimo abono y autorízase el pago de la suma de PESOS CIENTO CINCO MIL NOVECIENTOS OCHO CON 15/100 ($105.908,15) a favor de la firma Editorial Arena del Atlántico S.A., en concepto de servicios de publici | 1 | 2019-10-16 to 2019-10-16 |
+| `ordenanza-24210-2019` | Ordenanza 24210/2019: Insístese en los términos de la Ordenanza O – 18.518 sancionada por el Honorable Concejo Deliberante el día 13 de junio de 2019, por la cual se autoriza al señor Marcelo Stancovich, en su carácter de responsable del CIRC | 1 | 2019-09-27 to 2019-09-27 |
+| `ordenanza-24227-2019` | Ordenanza 24227/2019: Autorízase con carácter precario, a la Señora Pamela Xoana Misino, a afectar con los usos de suelo “Salón de Entretenimientos Infantiles”, el inmueble sito en la calle Mitre nº 3841, identificado catastralmente como: Cir | 1 | 2019-09-27 to 2019-09-27 |
+| `ordenanza-24241-2019` | Ordenanza 24241/2019: Otórgase la distinción al “Compromiso Social” a la señora Emma Esther Delpiano, por su intensa labor de voluntariado hospitalario, brindando asistencia y contención a pacientes internados y a sus familias. | 1 | 2019-10-16 to 2019-10-16 |
+| `ordenanza-24328-2019` | Ordenanza 24328/2019: Desaféctase del Área Urbana del Territorio Interior uno (UTI1) y aféctase a Área Complementaria del Litoral Marítimo uno (CoLM1), según Código de Ordenamiento Territorial (COT), el predio identificado catastralmente como | 1 | 2019-11-21 to 2019-11-21 |
+| `ordenanza-24329-2019` | Ordenanza 24329/2019: Prohíbese en todo el ámbito del Partido de General Pueyrredon la presencia de animales sueltos o que no se encuentren atados según las pautas fijadas por el artículo 3º de la presente, tanto en la vía pública como en ter | 1 | 2019-11-21 to 2019-11-21 |
+| `ordenanza-24336-2019` | Ordenanza 24336/2019: Dénse de baja del patrimonio municipal de la Administración Central los vehículos que se detallan a continuación: | 1 | 2019-12-07 to 2019-12-07 |
+| `ordenanza-24342-2019` | Ordenanza 24342/2019: Transfiérese a favor de la firma “E.C. Mar del Plata Constructora y Urbanizadora S.A.”, en su carácter de propietaria del inmueble ubicado en calle Gascón Nº 2674 de la ciudad de Mar del Plata, el dominio del excedente f | 1 | 2019-12-07 to 2019-12-07 |
+| `ordenanza-24353-2019` | Ordenanza 24353/2019: Modifícase el artículo 1º de la Ordenanza nº 24299 que quedará redactado de la siguiente manera: | 1 | 2019-12-07 to 2019-12-07 |
+| `ordenanza-24354-2019` | Ordenanza 24354/2019: Otórgase la distinción al “Compromiso Social” a la Organización No Gubernamental “Banco de Alimentos Manos Solidarias”, por la asistencia humanitaria y comunitaria y la tarea de fortalecer los vínculos solidarios entre l | 1 | 2019-12-07 to 2019-12-07 |
+| `ordenanza-24356-2019` | Ordenanza 24356/2019: Incorporáse el artículo 47º a la Ordenanza n° 5355, en los PROCEDIMIENTOS PARTICULARES, el que tendrá el siguiente texto: | 1 | 2019-12-07 to 2019-12-07 |
 
-The build made 162 commits:
+The build made 175 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 162 | first version of an act |
+| 175 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-11-05.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 157 laws in the record.
-- 319 tags.
+- 170 laws in the record.
+- 332 tags.
 
 ## Dates
 
@@ -201,13 +215,13 @@ When a law gives no date of its own, the default rule applies: An ordinance take
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `80a450971c7da694efcf40b7604ff7de3874163d160f0e3a61c6726e1279067b` (1000029 bytes).
+- Corpus: sha256 `1fc258f18130f613d75d571dccd59d711a635f629544adcc88ec2ffe5e8976d7` (1217944 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-162 versions of 162 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -218,6 +232,10 @@ No second build of this corpus has been compared yet.
 - The Province of Buenos Aires gives its municipalities no carta orgánica: their organic law is the provincial Ley Orgánica de las Municipalidades (Decreto-Ley 6769/58), which is provincial law and not included here. So this repository starts with ordinances.
 - Ordinances are taken from SIBOM's ordinance search for the partido, read from its last result page back (the search lists them only roughly in date order), in parts of about 50, each part in date order. An ordinance whose page carries only an extract, no article, or its text only as a PDF annex, is left out.
 - Units: the heading (encabezado: number, place and date, the expediente line and anything before Artículo 1) and one file per article, holding the article and everything printed after it up to the next article (signatures, annexes). Nothing is dropped. One paragraph per line, spacing normalised.
+- Ordinances retain the official as-published text; no consolidated or reconstructed historical wording is asserted.
+- In-force dates follow an explicit source vigencia clause, otherwise the existing country default of publication plus nine days.
+- Accepted texts match the official HTML or native PDF word for word including punctuation, with whitespace and discretionary soft hyphens normalized, using independent lxml or pypdf readers.
+- Ordinance 24224: source tables retain every original row, cell, empty cell, colspan and rowspan as official HTML inside Markdown; no wording or date was changed.
 
 ## What AI did and did not do
 
@@ -229,3 +247,5 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - A model (Claude) wrote the fetch and parse code and chose which norms to include; it wrote no law text. Every word of law comes from the provincial source's own texts.
+- GPT-6 wrote collection and validation code and reviewed metadata; no model authored or corrected law text.
+- GPT-6 wrote table-preserving serialization and checks; no model authored or corrected law text.

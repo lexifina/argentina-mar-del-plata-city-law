@@ -181,6 +181,30 @@
     "ordenanza-24674-2020"
    ],
    "sha256": "d68f690405b39ef73a2772b4a0f2d26562a04e76e78bd0aab9db68b829cea5ca"
+  },
+  "34-q211-depth.json": {
+   "acts": [
+    "ordenanza-24210-2019",
+    "ordenanza-24211-2019",
+    "ordenanza-24224-2019",
+    "ordenanza-24225-2019",
+    "ordenanza-24227-2019",
+    "ordenanza-24241-2019",
+    "ordenanza-24328-2019",
+    "ordenanza-24329-2019",
+    "ordenanza-24336-2019",
+    "ordenanza-24342-2019",
+    "ordenanza-24353-2019",
+    "ordenanza-24354-2019",
+    "ordenanza-24356-2019"
+   ],
+   "sha256": "21e6dad6ef1404c05b4cb26a84fcb346e0c14c33fdb597da90154879903ca71b"
+  },
+  "35-q211-table-correction.json": {
+   "acts": [
+    "ordenanza-24224-2019"
+   ],
+   "sha256": "27baac4c3db7069c4f4752e84be0e2b6f65f74091696b1b985d4f1f7e2f2eaa4"
   }
  },
  "schema": 1
