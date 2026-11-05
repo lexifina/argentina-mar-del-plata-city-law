@@ -5,7 +5,7 @@
   "level": "municipality",
   "parent": "ar-b",
   "repo": "https://github.com/lexifina/argentina-mar-del-plata-city-law",
-  "build": "built: municipal ordinances (162 ordinances, 162 versions) from https://sibom.slyt.gba.gob.ar/cities/55",
+  "build": "built: municipal ordinances (175 ordinances, 175 versions), as published by SIBOM; dated consolidations are not supplied",
   "language": "es",
   "sources": 1
 }

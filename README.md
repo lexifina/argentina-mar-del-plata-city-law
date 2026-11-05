@@ -8,7 +8,7 @@ The text is in Spanish, exactly as the source prints it.
 
 ## What this repository holds
 
-162 ordinances so far, in force from 29 August 2019 to 1 March 2024, each as published in the Boletín Oficial Municipal de General Pueyrredon, added in parts.
+175 ordinances so far, each as published in the Boletín Oficial Municipal de General Pueyrredon, added in parts.
 
 | Folder | Ordinance | History |
 | --- | --- | --- |
@@ -174,6 +174,19 @@ The text is in Spanish, exactly as the source prints it.
 | `ordenanza-24221-2019/` | Ordenanza 24221/2019: Convalídase el Convenio Marco de Adhesión suscripto entre el Departamento Ejecutivo y la Secretaría de Infraestructura Urbana dependiente … | in force 27 September 2019 |
 | `ordenanza-24207-2019/` | Ordenanza 24207/2019: Autorízase a la Asociación Empleados de Casino Pro Ayuda a la Niñez Desamparada (APAND), con sede social en la Ruta Nacional nº 2 y Beruti… | in force 29 August 2019 |
 | `ordenanza-24203-2019/` | Ordenanza 24203/2019: Autorízase, con carácter precario y por un período de prueba de dieciocho (18) meses, al señor Rubén Alejandro Battistessa a anexar con am… | in force 29 August 2019 |
+| `ordenanza-24211-2019/` | Ordenanza 24211/2019: Convalídase el Decreto nº 136/19 dictado por la Presidencia del Honorable Concejo Deliberante por medio del cual se autorizó a la firma Coarco S.A. el corte del tránsito vehicular y reducción de calzada de la Avda. Ediso | oldest version available, as published; in force 2019-09-18 |
+| `ordenanza-24224-2019/` | Ordenanza 24224/2019: Reconócese de legítimo abono y autorízase el pago de la suma de PESOS TREINTA Y CUATRO MIL CIENTO SETENTA Y CUATRO CON 70/100 ($ 34.174,70) a favor de los agentes y por los importes que se detallan en el Anexo I de la pr | oldest version available, as published; in force 2019-10-16 |
+| `ordenanza-24225-2019/` | Ordenanza 24225/2019: Reconócese de legítimo abono y autorízase el pago de la suma de PESOS CIENTO CINCO MIL NOVECIENTOS OCHO CON 15/100 ($105.908,15) a favor de la firma Editorial Arena del Atlántico S.A., en concepto de servicios de publici | oldest version available, as published; in force 2019-10-16 |
+| `ordenanza-24210-2019/` | Ordenanza 24210/2019: Insístese en los términos de la Ordenanza O – 18.518 sancionada por el Honorable Concejo Deliberante el día 13 de junio de 2019, por la cual se autoriza al señor Marcelo Stancovich, en su carácter de responsable del CIRC | oldest version available, as published; in force 2019-09-27 |
+| `ordenanza-24227-2019/` | Ordenanza 24227/2019: Autorízase con carácter precario, a la Señora Pamela Xoana Misino, a afectar con los usos de suelo “Salón de Entretenimientos Infantiles”, el inmueble sito en la calle Mitre nº 3841, identificado catastralmente como: Cir | oldest version available, as published; in force 2019-09-27 |
+| `ordenanza-24241-2019/` | Ordenanza 24241/2019: Otórgase la distinción al “Compromiso Social” a la señora Emma Esther Delpiano, por su intensa labor de voluntariado hospitalario, brindando asistencia y contención a pacientes internados y a sus familias. | oldest version available, as published; in force 2019-10-16 |
+| `ordenanza-24328-2019/` | Ordenanza 24328/2019: Desaféctase del Área Urbana del Territorio Interior uno (UTI1) y aféctase a Área Complementaria del Litoral Marítimo uno (CoLM1), según Código de Ordenamiento Territorial (COT), el predio identificado catastralmente como | oldest version available, as published; in force 2019-11-21 |
+| `ordenanza-24329-2019/` | Ordenanza 24329/2019: Prohíbese en todo el ámbito del Partido de General Pueyrredon la presencia de animales sueltos o que no se encuentren atados según las pautas fijadas por el artículo 3º de la presente, tanto en la vía pública como en ter | oldest version available, as published; in force 2019-11-21 |
+| `ordenanza-24336-2019/` | Ordenanza 24336/2019: Dénse de baja del patrimonio municipal de la Administración Central los vehículos que se detallan a continuación: | oldest version available, as published; in force 2019-12-07 |
+| `ordenanza-24342-2019/` | Ordenanza 24342/2019: Transfiérese a favor de la firma “E.C. Mar del Plata Constructora y Urbanizadora S.A.”, en su carácter de propietaria del inmueble ubicado en calle Gascón Nº 2674 de la ciudad de Mar del Plata, el dominio del excedente f | oldest version available, as published; in force 2019-12-07 |
+| `ordenanza-24353-2019/` | Ordenanza 24353/2019: Modifícase el artículo 1º de la Ordenanza nº 24299 que quedará redactado de la siguiente manera: | oldest version available, as published; in force 2019-12-07 |
+| `ordenanza-24354-2019/` | Ordenanza 24354/2019: Otórgase la distinción al “Compromiso Social” a la Organización No Gubernamental “Banco de Alimentos Manos Solidarias”, por la asistencia humanitaria y comunitaria y la tarea de fortalecer los vínculos solidarios entre l | oldest version available, as published; in force 2019-12-07 |
+| `ordenanza-24356-2019/` | Ordenanza 24356/2019: Incorporáse el artículo 47º a la Ordenanza n° 5355, en los PROCEDIMIENTOS PARTICULARES, el que tendrá el siguiente texto: | oldest version available, as published; in force 2019-12-07 |
 
 ## Source
 
@@ -198,3 +211,5 @@ Sistema de Boletines Oficiales Municipales (SIBOM), Subsecretaría Legal y Técn
 ## Limits
 
 This is not an official publication. The binding text is the one published in the Boletín Oficial Municipal de General Pueyrredon. Only the ordinances listed above are included, and amendments are not consolidated into the texts they amend.
+
+The new records preserve each ordinance as published in the municipal bulletin. SIBOM does not provide consolidated dated versions for these records. Earlier or amended wording is not reconstructed.
